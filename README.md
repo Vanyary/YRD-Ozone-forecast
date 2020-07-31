@@ -1,2 +1,2 @@
 # YRD-Ozone-forecast
-a deep learning model to forcast ozone concentration in YRD
+source code of the article “Real-time hourly ozone prediction system for Yangtze River Delta area using attention based on a sequence to sequence model”
